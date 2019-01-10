@@ -1,0 +1,15 @@
+
+*.ipch
+.vs/CodeGeneration/v15/.suo
+*.db
+*.tlog
+*.filters
+*.log
+*.user
+*.vcxproj
+*.obj
+*.pch
+*.exe
+*.ilk
+*.idb
+*.pdb

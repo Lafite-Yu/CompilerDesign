@@ -1,0 +1,17 @@
+Global: 
+
+int func1()
+func1:
+ret VOID 
+ret DEFAULT_RETURN 
+
+void main()
+const int func1 = 10
+const int constint = 100
+main:
+A FUNC CALL BEGIN BELOW:
+call func1
+#temp1 = RET
+printf CHAR_OR_INT #temp1
+scanf constint
+scanf autoint
